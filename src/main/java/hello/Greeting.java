@@ -7,6 +7,9 @@ public class Greeting {
 
     private final String name;
     private final String gender;
+
+    //add komentar 2
+
 /*
 PULL REQUEST DALAM STAGING
 
