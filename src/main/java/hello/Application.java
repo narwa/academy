@@ -8,6 +8,8 @@ public class Application {
 
     public static void main(String[] args) {
 
+        System.out.println("un and resolved");
+
         System.out.println("parampa");
         System.out.println("ini contoh conflict");
 
