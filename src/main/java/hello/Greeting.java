@@ -1,20 +1,26 @@
 package hello;
 
+import lombok.Data;
+
+@Data
 public class Greeting {
 
-    private final long id;
-    private final String content;
+    private final String name;
+    private final String gender;
+/*
+PULL REQUEST DALAM STAGING
 
-    public Greeting(long id, String content) {
-        this.id = id;
-        this.content = content;
+    public Greeting(String name, String gender) {
+        this.name = name;
+        this.gender = gender;
     }
 
-    public long getId() {
-        return id;
-    }
+    public String getGender() {
+        return gender;}
 
-    public String getContent() {
-        return content;
+    public String getName() {
+        return name;
     }
+*/
+
 }
