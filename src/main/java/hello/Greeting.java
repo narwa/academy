@@ -8,6 +8,8 @@ public class Greeting {
     private final String name;
     private final String gender;
 /*
+PULL REQUEST DALAM STAGING
+
     public Greeting(String name, String gender) {
         this.name = name;
         this.gender = gender;
