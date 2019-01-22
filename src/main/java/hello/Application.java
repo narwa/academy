@@ -17,5 +17,7 @@ public class Application {
 
         System.out.println("conglict resolver");
 
+        System.out.println("test stats");
+
     }
 }
